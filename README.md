@@ -5,7 +5,7 @@
 
 
 # Smart Contract Security Best Practices
-
+ 
 Visit the documentation site: https://consensys.github.io/smart-contract-best-practices/
 
 Read the docs in Chinese: https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md
